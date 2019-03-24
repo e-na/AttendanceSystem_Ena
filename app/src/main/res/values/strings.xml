@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Attendance System</string>
+    <string name="your_string_here">This is an &lt;u>underline&lt;/u>.</string>
+    <string name="instructions">Place your finger on fingerprint scanner to login</string>
+    <string name="note">(Fingerprint sign in makes your app login much faster. Your device should have at least one fingerprint registered in device settings)</string>
+    <string name="title_fingerprint">One-touch Sign In</string>
+    <string name="desc_fingerprint">Please place your fingertip on the scanner to verify your identity</string>
+    <string name="title_activity_home">Fingerprint</string>
+    <string name="activity_home_desc">You have successfully logged in with fingerprint authentication</string>
+    <string name="activity_home_note">Close and re-open the app to see the fingerprint auth screen again</string>
+    <string name="custom_alert_dialogbox_registration_splash">Dear User kindly register \nto access the application</string>
+    <string name="textViewErrorText">Database Connectivity Error \nKindly Swipe Down To Refresh Your Connectivity </string>
+    <string name="custom_alert_dialogbox_exit">Do you wish to exit the application?</string>
+    <string name="custom_alert_dialogbox_login">Please Wait While \nYour Credentials \nAre Being Checked</string>
+    <string name="custom_alert_dialogbox_register">Please Wait While \nRegistering You</string>
+    <string name="custom_dialogbox_logout">Do you wish to logoff from the application?</string>
+    <string name="custom_dialogbox_submit_attendance">Please Wait While \nSubmitting  Your Attendance</string>
+    <string name="custom_dialogbox_report">Retrieving Data... \nPlease Wait...</string>
+    <string name="marquee">2018 © BHARAT SANCHAR NIGAM LTD. (A Govt. of India Enterprise) </string>
+    <string name="action_search">Search</string>
+    <string name="search_hint">Type name…</string>
+    <string name="matchmacking"></string>
+    <string name="Team_Member">Select Team Member</string>
+    <string name="Month">Month</string>
+    <string name="year">year</string>
+    <string name="info">Kindly contact FMS Server Team for Login Related problem.</string>
+    <string name="noteotherissues">Contact FMS Server Team : Mon to Sat - 10:00 am to 5:30 pm, except on 2nd Saturday of the month as BSNL remains closed.</string>
+    <string name="noteissues">Please note below details before making a call and provide it to FMS Server team upon request.</string>
+
+</resources>
